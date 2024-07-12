@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["👑 | Official Bot FareBox 💫","👨‍💻| Developed By EvilMain"];
 
 
 let currentIndex = 0;
